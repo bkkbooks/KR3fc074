@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc074/tls/v1/juan/24
+seq: 24
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 籌數亦鈐也但鈐湏臨時立之籌則預已立定臨時排列即淂惟其中两位相合䖏湏臨时并而為㦯數大又當臨时推上一位耳如五与五合則進上為一而本位空亦与七合則直上為一而本位為三之類其籌本心橫格斜分為二左上右下直書因乗歌诀取用則橫读之自左而右梅定九氏改用横籌虛分九每上下各画半圈橫書乗诀取用則直读之自上而下上籌下半圈之數与下籌上半圈內之數恰合成一圈則並成一數眉目更為湾楚惟作之稍费工力𠧦各具一式任便可耳
+  hash: sha256:22103530e8c18c6fd0fe7fd74d8d64f2875374f4819a97c6beefc0ed9b1f0395
+metadata:
+  title: 筆算說略
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc074.xml
+hash: sha256:0991cef2a5ffda6c3d90248ccfca5e90b37464d29fbb34bf3775c43a84bd483b

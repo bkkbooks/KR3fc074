@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc074/tls/v1/juan/25
+seq: 25
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 筆算說略
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc074.xml
+hash: sha256:5ca7b94b997cd712cf86b5250941e894d802d140858bff71f261c1f11e54180a

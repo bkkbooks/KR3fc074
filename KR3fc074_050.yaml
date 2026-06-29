@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc074/tls/v1/juan/50
+seq: 50
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 中國科學院自然科學史研究室嚴敦杰同志近撰故宮所清代計祘儀器一文文物一九六二年第二期豫讀而善之爰舉是並祘籌兩匣獻諸該室庶几于前清中叶以后知識分子除從乃舉業而外對于籌祘與筆祘的學習得覩其實物而知與概况焉一九六二年六月八日張子高識
+  hash: sha256:1cbb7fc0c8ad744acecbb0532071ebe16c7d2e9cc4989b3075d8456131127d5c
+metadata:
+  title: 筆算說略
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc074.xml
+hash: sha256:41e0e49a712ab7e7c731a6a6a2498054813762befa5794a5ef57fc231fbc92db

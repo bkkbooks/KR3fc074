@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc074/tls/v1/juan/34
+seq: 34
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以检籌相近畧小者淂二四三列為五層其籌沒苐六即書亦扵初線上与首二相當下作線減之餘一七一為亦層以检籌相近畧小者淂一六二列為七層其籌淂苐四即書四扵初線上与首一相當下作線減之餘八一為八層以检籌淂八一其數恰合列為九層其籌淂苐二即書扵初線上与首相當下作線減之恰尽筭訖沒二千六百四十二引為所术
+  hash: sha256:27a7466dd92d193ad9af441559c78277502d7afed800e2d8009a9fe440950566
+metadata:
+  title: 筆算說略
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc074.xml
+hash: sha256:40f702a069b4f912676399120b3054e5d91d45095d04210db0a7edc4f0d51d36

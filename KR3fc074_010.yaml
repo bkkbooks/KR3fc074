@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc074/tls/v1/juan/10
+seq: 10
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 空位作一圈豫為進位地逐加法第一條之數挨填之至十層必為一層之十倍則知表無誤算矣所設立鈐也乘時逐位檢取加之即淂因思乘為加之捷除為減之捷今乘既立鈐加之則除亦可立鈐減之自是通為一率但乘不妨法實互易可于兩數中擇其數少者立表而除則必用法數立表不可任用又乘法表亦不須立全視實中所有之數已偹即止除則不能豫定然用法既熟神所存乎其人今以一二三四立表為鈐式焉圖于左方乘法設砌地一行用磚二百四十塊問十六行用磚幾何答曰三千八百四十塊法以十六為法立鈐先以法一六橫列為一層六為單旁作
+  hash: sha256:c3c112968b61276fffbff7f7a4b19b40bf232e3c94053435dba18c984b9a0bd4
+metadata:
+  title: 筆算說略
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc074.xml
+hash: sha256:2d642207ed5aabba526067883dcb3a9d28e239dd24654787aaaa81ef3f68ce44

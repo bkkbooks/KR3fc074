@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc074/tls/v1/juan/22
+seq: 22
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 淂七两九錢九分九九不居包尾淂八两合问𠰥用四率則淂故恰𥁞不須包尾以上三式四率法𥁞其概矣以換錢為日用所需故藉以彂其凡
+  hash: sha256:f085352b5e4a837bfa8724be4663ee4999569c45bc56748ae609c29d53dbe686
+metadata:
+  title: 筆算說略
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc074.xml
+hash: sha256:ca6fba203c531d42ed093e4c2757f13b3ae96e51736fdf4e03be2481f263e6d2
