@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 十六两為斤六十分為度三十度為宮十五分為刻八刻為時二百四十步為𤱈一百八十丈為里十黍為絫十絫為銖二十四銖為両八两為錙釜深尺方尺容亦斗四升古尺扵个只亦寸二分半是古尺一石合一斗五升二合有奇古一釜之九升七合七勺弱
-  hash: sha256:06271a8bbf0e8349d6a0d039d8fa65d6846bad5d611920dacd8590e944619179
+  text: 十六兩為斤六十分為度三十度為宮十五分為刻八刻為時二百四十步為畝一百八十丈為里十黍為絫十絫為銖二十四銖為兩八兩為錙釜深尺方尺容亦斗四升古尺于個只亦寸二分半是古尺一石合一斗五升二合有奇古一釜之九升七合七勺弱
+  hash: sha256:74d79df9b9b87a5451e4fe003f795176b1bd18d0e30545fc69dba6d7141d4d61
 metadata:
   title: 筆算說略
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc074.xml
-hash: sha256:a461ab1648272ed8e983f563afd76cbac4deb099fa399f36caadfbe5ed1989b6
+hash: sha256:f1afa81065aea0ba28ebe14da2817f60e55312968d784bf8a1e2defee8654af0
